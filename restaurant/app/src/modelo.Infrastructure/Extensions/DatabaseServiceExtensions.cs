@@ -33,11 +33,8 @@ namespace modelo.Infrastructure.Extensions
             }
         }
 
-        private static object GetConnectionString(IConfiguration configurations)
-        {
-            // TODO : criar a conection string de hom e prod aqui
-            throw new NotImplementedException();
-        }
+        private static object GetConnectionString(IConfiguration configurations) => configurations.GetConnectionString("Default");
+
 
         private static object GetLocalConnectionStringDocker(IConfiguration configurations) => configurations.GetConnectionString("Default");
         

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0GY7fw0EtDYg1vIqARNtRzsR/5uq+yok6V0qQP06qnx6L2GpCFZR7VcvTM1ZTZnItR1tVelLOFymvkPLABDrGw==",
+  "dgSpecHash": "dVE9f6Kl963nHV72stEM6dpblbwzGFOvWbE/o30pQS8KpUxR9VWQlp5kZDHHlO00XD6PuAMgcvixOkMM8LkJcQ==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\DotNet\\Nova pasta\\restaurant\\app\\src\\modelo.Infrastructure\\modelo.Infrastructure.csproj",
+  "projectFilePath": "C:\\Projetos\\DotNet\\Nova pasta\\fiap-restaurant\\restaurant\\app\\src\\modelo.Infrastructure\\modelo.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rodrigo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Rodrigo\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.0\\microsoft.aspnetcore.jsonpatch.6.0.0.nupkg.sha512",

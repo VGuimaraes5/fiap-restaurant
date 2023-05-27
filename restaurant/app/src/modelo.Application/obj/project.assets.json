@@ -178,11 +178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\DotNet\\Nova pasta\\restaurant\\app\\src\\modelo.Application\\modelo.Application.csproj",
+      "projectUniqueName": "C:\\Projetos\\DotNet\\Nova pasta\\fiap-restaurant\\restaurant\\app\\src\\modelo.Application\\modelo.Application.csproj",
       "projectName": "modelo.Application",
-      "projectPath": "C:\\Projetos\\DotNet\\Nova pasta\\restaurant\\app\\src\\modelo.Application\\modelo.Application.csproj",
+      "projectPath": "C:\\Projetos\\DotNet\\Nova pasta\\fiap-restaurant\\restaurant\\app\\src\\modelo.Application\\modelo.Application.csproj",
       "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\DotNet\\Nova pasta\\restaurant\\app\\src\\modelo.Application\\obj\\",
+      "outputPath": "C:\\Projetos\\DotNet\\Nova pasta\\fiap-restaurant\\restaurant\\app\\src\\modelo.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -199,8 +199,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Projetos\\DotNet\\Nova pasta\\restaurant\\app\\src\\modelo.Domain\\modelo.Domain.csproj": {
-              "projectPath": "C:\\Projetos\\DotNet\\Nova pasta\\restaurant\\app\\src\\modelo.Domain\\modelo.Domain.csproj"
+            "C:\\Projetos\\DotNet\\Nova pasta\\fiap-restaurant\\restaurant\\app\\src\\modelo.Domain\\modelo.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\DotNet\\Nova pasta\\fiap-restaurant\\restaurant\\app\\src\\modelo.Domain\\modelo.Domain.csproj"
             }
           }
         }

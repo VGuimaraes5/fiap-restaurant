@@ -1,14 +1,14 @@
 version: '3.3'
 services:
-  # backend:
-  #   image: ${DOCKER_REGISTRY-}challenge
-  #   build: 
-  #     context: app/src/modelo.API/
-  #     dockerfile: Dockerfile
-  #   ports:
-  #     - "5001:5001"
-  #   depends_on:
-  #     - mysqldatabase
+  backend:
+    image: ${DOCKER_REGISTRY-}challenge
+    build: 
+      context: app/src/
+      dockerfile: Dockerfile
+    ports:
+      - "5001:80"
+    depends_on:
+      - mysqldatabase
 
   mysqldatabase:
     image: mysql:8.0.27

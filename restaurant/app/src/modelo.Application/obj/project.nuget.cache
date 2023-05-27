@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ryf19wiONielCRo9DBzwQzWDx93Y36ZOPFisLaB4wODDMqXDQn1h3HHZnTq0T6nbciQpUfK/o916QJ6OEbwKUQ==",
+  "dgSpecHash": "zmD26KshIBpPRP2ywOjddIK1zOS2uxKlUUO1CexY9CVDehsFJrfAZYcpnlzJubnoubO55rptcDxlCL4orD5v+A==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\DotNet\\Nova pasta\\restaurant\\app\\src\\modelo.Application\\modelo.Application.csproj",
+  "projectFilePath": "C:\\Projetos\\DotNet\\Nova pasta\\fiap-restaurant\\restaurant\\app\\src\\modelo.Application\\modelo.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rodrigo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Rodrigo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

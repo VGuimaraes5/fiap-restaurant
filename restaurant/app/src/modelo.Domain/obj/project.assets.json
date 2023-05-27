@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\DotNet\\Nova pasta\\restaurant\\app\\src\\modelo.Domain\\modelo.Domain.csproj",
+      "projectUniqueName": "C:\\Projetos\\DotNet\\Nova pasta\\fiap-restaurant\\restaurant\\app\\src\\modelo.Domain\\modelo.Domain.csproj",
       "projectName": "modelo.Domain",
-      "projectPath": "C:\\Projetos\\DotNet\\Nova pasta\\restaurant\\app\\src\\modelo.Domain\\modelo.Domain.csproj",
+      "projectPath": "C:\\Projetos\\DotNet\\Nova pasta\\fiap-restaurant\\restaurant\\app\\src\\modelo.Domain\\modelo.Domain.csproj",
       "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\DotNet\\Nova pasta\\restaurant\\app\\src\\modelo.Domain\\obj\\",
+      "outputPath": "C:\\Projetos\\DotNet\\Nova pasta\\fiap-restaurant\\restaurant\\app\\src\\modelo.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",

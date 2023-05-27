@@ -2777,11 +2777,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\DotNet\\Nova pasta\\restaurant\\app\\src\\modelo.Infrastructure\\modelo.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Projetos\\DotNet\\Nova pasta\\fiap-restaurant\\restaurant\\app\\src\\modelo.Infrastructure\\modelo.Infrastructure.csproj",
       "projectName": "modelo.Infrastructure",
-      "projectPath": "C:\\Projetos\\DotNet\\Nova pasta\\restaurant\\app\\src\\modelo.Infrastructure\\modelo.Infrastructure.csproj",
+      "projectPath": "C:\\Projetos\\DotNet\\Nova pasta\\fiap-restaurant\\restaurant\\app\\src\\modelo.Infrastructure\\modelo.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\DotNet\\Nova pasta\\restaurant\\app\\src\\modelo.Infrastructure\\obj\\",
+      "outputPath": "C:\\Projetos\\DotNet\\Nova pasta\\fiap-restaurant\\restaurant\\app\\src\\modelo.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2798,11 +2798,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Projetos\\DotNet\\Nova pasta\\restaurant\\app\\src\\modelo.Application\\modelo.Application.csproj": {
-              "projectPath": "C:\\Projetos\\DotNet\\Nova pasta\\restaurant\\app\\src\\modelo.Application\\modelo.Application.csproj"
+            "C:\\Projetos\\DotNet\\Nova pasta\\fiap-restaurant\\restaurant\\app\\src\\modelo.Application\\modelo.Application.csproj": {
+              "projectPath": "C:\\Projetos\\DotNet\\Nova pasta\\fiap-restaurant\\restaurant\\app\\src\\modelo.Application\\modelo.Application.csproj"
             },
-            "C:\\Projetos\\DotNet\\Nova pasta\\restaurant\\app\\src\\modelo.Domain\\modelo.Domain.csproj": {
-              "projectPath": "C:\\Projetos\\DotNet\\Nova pasta\\restaurant\\app\\src\\modelo.Domain\\modelo.Domain.csproj"
+            "C:\\Projetos\\DotNet\\Nova pasta\\fiap-restaurant\\restaurant\\app\\src\\modelo.Domain\\modelo.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\DotNet\\Nova pasta\\fiap-restaurant\\restaurant\\app\\src\\modelo.Domain\\modelo.Domain.csproj"
             }
           }
         }
